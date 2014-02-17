@@ -2,6 +2,11 @@ body{
     font-family: helvetica, arial, sans-serif;
 }
 
+h2{
+    text-align:center;
+    font-size:36px;
+}
+
 h3{
     text-align:center;
     font-size:40px;
@@ -14,4 +19,16 @@ h3{
     margin-left:auto;
     margin-right:auto;
     background-color:#DDDDDD;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+    font-size:25px;
+    text-align:center;
+}
+
+td,th {
+    border: solid black 1px;
+    padding: 5px;
 }
